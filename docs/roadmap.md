@@ -24,7 +24,8 @@ Then 0.2.0, the finished version of all of the above.
 
 ## 0.3: getting around
 
-- **A feedback form inside StoryHeart**, so you don't need an email program. You choose what it's about (a problem, an idea, or something else), write your message, and add your email if you'd like a reply. Technical details (the StoryHeart and Windows versions, and the error log if there is one) are included unless you untick them. Nothing about your books is ever sent. It arrives as an email that can be answered like any other.
+- **A feedback form inside StoryHeart**, so you don't need an email program. You choose what it's about (a problem, an idea, or something else), write your message, and add your email if you'd like a reply. Technical details (the StoryHeart and Windows versions, and the error log if there is one) are included unless you untick them. Nothing about your books is ever sent. It arrives as an email that can be answered like any other. The website's sending service accepts the same report format as [mailbag](https://github.com/accessware/mailbag), the open-source report server made for Paperback, so StoryHeart could switch to it later without changing.
+- **An offer to report a crash.** If StoryHeart closed unexpectedly, the next time it opens it asks whether you'd like to send a report about it, with the error log attached. A setting turns this off.
 - **Shortcuts that work anywhere**, so you can play, pause and skip without switching to StoryHeart. Especially handy when it's hidden in the notification area.
 - **Choose your own shortcuts.**
 - **How much StoryHeart says**: shorter or longer announcements.
