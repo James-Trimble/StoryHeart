@@ -4,7 +4,6 @@ These are ideas, not promises. StoryHeart is very new, and anything here can cha
 
 ## Now
 
-- **A coming soon page at storyheart.app**: the name and icon, what StoryHeart is, and how to get in touch.
 - **A feedback email address**, feedback@storyheart.app.
 
 ## 0.2: updates and settings
